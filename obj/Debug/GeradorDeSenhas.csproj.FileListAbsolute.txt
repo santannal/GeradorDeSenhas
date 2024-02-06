@@ -1,0 +1,11 @@
+C:\Users\João\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\GeradorDeSenhas.exe.config
+C:\Users\João\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\GeradorDeSenhas.exe
+C:\Users\João\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\GeradorDeSenhas.pdb
+C:\Users\João\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.csproj.AssemblyReference.cache
+C:\Users\João\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.csproj.SuggestedBindingRedirects.cache
+C:\Users\João\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.Form1.resources
+C:\Users\João\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.Properties.Resources.resources
+C:\Users\João\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.csproj.GenerateResource.cache
+C:\Users\João\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.exe
+C:\Users\João\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.pdb
